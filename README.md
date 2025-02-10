@@ -23,7 +23,7 @@ python3 main.py
 ```
 
 ### Visualizing the Data
-After running the analysy, in order to generate a graphical representation of the results, run:
+After running the analysis, in order to generate a graphical representation of the results, run:
 
 ```sh
 python3 gui.py
