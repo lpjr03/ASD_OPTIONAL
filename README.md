@@ -10,7 +10,9 @@ This project analyzes the evolution of comment percentage in the Vue2 repository
 
 To run this project, you need Python and the following dependencies:
 
+```sh
 pip install -r requirements.txt
+```
 
 ### Setup
 Clone the Vue2 repository and this analysis repository, placing both on your desktop:
