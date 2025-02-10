@@ -11,8 +11,8 @@ Clone the Vue2 repository and this analysis repository, placing both on your des
 
 ```sh
 git clone https://github.com/vuejs/vue.git ~/Desktop/vue
-git clone <your-repo-url> ~/Desktop/your-repo
-cd ~/Desktop/your-repo
+git clone https://github.com/lpjr03/ASD_OPTIONAL.git ~/Desktop/ASD_OPTIONAL
+cd ~/Desktop/ASD_OPTIONAL
 ```
 
 ### Running the Analysis
