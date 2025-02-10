@@ -6,6 +6,14 @@ This project analyzes the evolution of comment percentage in the Vue2 repository
 1. How has the percentage of comments in the code changed over time? (Lines of comments / Total lines of code)
 2. In what percentage of commits has the comment percentage increased?
 
+### Installation
+
+To run this project, you need Python and the following dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
 ### Setup
 Clone the Vue2 repository and this analysis repository, placing both on your desktop:
 
