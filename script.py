@@ -2,15 +2,13 @@ import os, re
 import subprocess
 from Stat import Stat
 
-# Imposta il percorso della directory del repository Git
 REPO_PATH = "C:/Users/lpjr0/Desktop/vue/"
 
 def get_code_stats(commit_hash):
-    # Checkout specific commit nella directory specificata
     subprocess.run(
         ["git", "checkout", commit_hash],
         check=True,
-        cwd=REPO_PATH,  # Directory del repository
+        cwd=REPO_PATH,
     )
     total_comments = 0
     total_lines = 0

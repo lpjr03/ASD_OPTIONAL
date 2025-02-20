@@ -1,4 +1,3 @@
-import numpy as np
 from git import Repo
 from datetime import datetime
 import matplotlib.pyplot as plt
